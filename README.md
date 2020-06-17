@@ -8,8 +8,8 @@ This example shows how to implement a **REST API with TypeScript** using [Expres
 
 Clone this repository:
 
-```
-git clone git@github.com:prisma/prisma-examples.git --depth=1
+```ts
+const thingy: string = 'This is a test to see if TS markdown works and if I can change master branch to main correctly!'
 ```
 
 Install npm dependencies:
